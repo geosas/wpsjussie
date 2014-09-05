@@ -1,7 +1,7 @@
 wpsjussie ADDON
 ================
 
-This addon allows users to extract layers very easily.
+This addon allows users to detect aquatic plants using them spectral signature.
 author: @Mounirsky
 
 Typical configuration to include in your GEOR_custom.js file:
