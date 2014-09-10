@@ -16,7 +16,7 @@ GEOR.Addons.wpsjussie.prototype = {
     WPS_config: null,
     layerStore: null,
     drawPolygon:null,
-    ButtonToolDraw: null,
+    ButtonToolDraw: null, 
 
     /**
      * Property: wpsInitialized
