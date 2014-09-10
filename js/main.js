@@ -317,7 +317,7 @@ GEOR.Addons.wpsjussie.prototype = {
                 height:25,
                 width: 35,
                 handler: function () {
-                           window.open("http://geowww.agrocampus-ouest.fr/web/");
+                           window.open("http://geowww.agrocampus-ouest.fr/web/?p=1513");
                         }
             },  
             // {
