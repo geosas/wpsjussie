@@ -124,7 +124,7 @@ GEOR.Addons.wpsjussie.prototype = {
                 var rec = new ObjectRecordType({ text: "No based WFS layers !", value:"" })
                 
                 var liste = [rec.data.text, rec.data.value];
-                layer_liste_WCS.push(liste)
+                layer_liste_WFS.push(liste)
                 disabled: true
             }
         };
