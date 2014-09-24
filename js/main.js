@@ -199,11 +199,12 @@ GEOR.Addons.wpsjussie.prototype = {
             vtypeText: OpenLayers.i18n('This field should be filled in by your e-mail address'),
             emptyText: "user@domain.com",
             allowBlank: false,
+            description: "nosdfsdfsdfne",
             width: FIELD_WIDTH,
             allowDecimals: true,
             labelSeparator: OpenLayers.i18n("labelSeparator"),
             value: GEOR.config.USEREMAIL || "",
-            fieldLabel: OpenLayers.i18n("Enter your Email (Required)"),
+            fieldLabel: OpenLayers.i18n("Enter your Email(s) (Required)"),
             // fieldLabel: WPS_config.email.title, // From WPS Server
             value: this.options.default_email
         });
