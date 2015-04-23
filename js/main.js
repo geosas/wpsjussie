@@ -215,7 +215,7 @@ GEOR.Addons.wpsjussie.prototype = {
             shadow: false,
             closeAction: 'hide',
             region: "center", //"north","south","east","west"
-            width: 440,
+            width: 455,
             height: 190,
             iconCls: 'wind_icon',
             plain: true,
@@ -242,7 +242,7 @@ GEOR.Addons.wpsjussie.prototype = {
                     items:[{
                         xtype: 'form',
                         autoWidth: true,
-                        labelWidth: 175,
+                        labelWidth: 190,
                         bodyStyle: "padding:10px;",
                         items: [
                             ImageField,
