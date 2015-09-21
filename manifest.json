@@ -4,12 +4,11 @@
         "../../../lib/externals/openlayers/lib/OpenLayers/Format/OWSCommon/v1_1_0.js",
         "../../../lib/externals/openlayers/lib/OpenLayers/Format/WPSDescribeProcess.js",
         "../../../lib/externals/openlayers/lib/OpenLayers/Format/WKT.js",
-        "../../../lib/externals/ext/examples/ux/fileuploadfield/FileUploadField.js",
         "../../../lib/externals/openlayers/lib/OpenLayers/Format/WFST/v1_1_0.js",
         "../../../lib/externals/openlayers/lib/OpenLayers/Icon.js",
         "../../../lib/externals/openlayers/lib/OpenLayers/Marker.js",
         "../../../lib/externals/openlayers/lib/OpenLayers/Layer/Markers.js",
-
+        "js/FileUploadField.js",
         "js/WPSAxecute.js",
         "js/main.js"
     ],
